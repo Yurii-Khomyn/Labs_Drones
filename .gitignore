@@ -1,0 +1,7 @@
+build/
+install/
+log/
+__pycache__/
+eeprom.bin
+mav.tlog
+mav.tlog.raw
